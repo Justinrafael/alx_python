@@ -1,4 +1,5 @@
-def add_numbers(x, y):
+def add(x, y):
     return x + y
-result = add_numbers(5, 10)
-print(result)  # Output: 15
+print(add(1, 2))
+print(add(98, 0))
+print(add(100, -2))
