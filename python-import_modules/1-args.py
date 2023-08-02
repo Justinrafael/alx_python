@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-This module prints the number of and the list of its arguments.
-"""
-
 if __name__ == "__main__":
     from sys import argv
 
